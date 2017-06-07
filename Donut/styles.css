@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+}
+
+h1 {
+  font: 30px sans-serif;
+  font-weight: 600;
+}
+
+#donut-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.arc text {
+  font: 12px sans-serif;
+}
+
+.arc path {
+  stroke: #fff;
+}

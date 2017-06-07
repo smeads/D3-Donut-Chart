@@ -1,0 +1,42 @@
+[
+  {
+    "title": "A New Hope",
+    "releaseDate": "May 25, 1977",
+    "revenue": 786598007
+  },
+  {
+    "title": "Empire Strikes Back",
+    "releaseDate": "May 21, 1980",
+    "revenue": 534171960
+  },
+  {
+    "title": "Return of the Jedi",
+    "releaseDate": "May 25, 1983",
+    "revenue": 572705079
+  },
+  {
+    "title": "The Phantom Menace",
+    "releaseDate": "May 19, 1999",
+    "revenue": 1027044677
+  },
+  {
+    "title": "Attack of the Clones",
+    "releaseDate": "May 16, 2002",
+    "revenue": 656695615
+  },
+  {
+    "title": "Revenge of the Sith",
+    "releaseDate": "Aug 15, 2008",
+    "revenue": 848998877
+  },
+  {
+    "title": "The Force Awakens",
+    "releaseDate": "Dec 18, 2015",
+    "revenue": 2058662225
+  },
+  {
+    "title": "Rogue One",
+    "releaseDate": "Dec 16, 2016",
+    "revenue": 1050903073
+  }
+]
